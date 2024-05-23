@@ -105,4 +105,4 @@ The Online Voting System endeavors to revolutionize the electoral process by off
 
 
 
-This README provides an overview of the project, including its abstract, system design, methodology, key functionalities, security measures, limitations, and future work. For detailed information, please refer to the project documentation and source code available in this repository.
+This README provides an overview of the project, including its abstract, system design, methodology, key functionalities, security measures, limitations, and future work. For detailed information, please refer to the project documentation, source code and readme textfile available in this repository.
