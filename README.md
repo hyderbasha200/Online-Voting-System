@@ -103,4 +103,6 @@ We explored implementing additional authentication methods such as OTP, SMS, or 
 ## 7. Conclusion
 The Online Voting System endeavors to revolutionize the electoral process by offering a user-friendly platform for voter registration and online voting. Despite challenges with certain authentication methods, the system's security measures and user experience can be enhanced through continuous innovation. Our commitment to advancing the online voting system aims to uphold the integrity and reliability of the electoral process, promoting democratic participation on a broader scale.
 
+
+
 This README provides an overview of the project, including its abstract, system design, methodology, key functionalities, security measures, limitations, and future work. For detailed information, please refer to the project documentation and source code available in this repository.
